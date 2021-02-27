@@ -188,7 +188,7 @@ class FilesProcessor(AbstractProcessor):
         # https://docs.gitlab.com/ee/ci/yaml/README.html#skipping-jobs
         skip_build_str = " [skip ci]" if skip_build else ""
 
-        return "Automated %s made by gitlabform%s" % (operation, skip_build_str)
+        return "chore: automated %s made by gitlabform%s" % (operation, skip_build_str)
 
     @staticmethod
     def get_group(project_and_group):
