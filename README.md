@@ -3,6 +3,7 @@
 ![PyPI downloads](https://img.shields.io/pypi/dm/gitlabform?label=PyPI%20Downloads)
 ![docker pulls](https://img.shields.io/docker/pulls/egnyte/gitlabform)
 [![code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
 <img src="https://raw.githubusercontent.com/egnyte/gitlabform/main/docs/gitlabform-logo.png" width="600px">
 
